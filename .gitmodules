@@ -4,3 +4,6 @@
 [submodule "Tensorflow"]
 	path = Tensorflow
 	url = ../Tensorflow-Learn.git
+[submodule "Sklearn"]
+	path = Sklearn
+	url = ../Sklearn-Learn.git
