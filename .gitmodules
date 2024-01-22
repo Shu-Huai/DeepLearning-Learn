@@ -1,6 +1,6 @@
 [submodule "Pytorch"]
 	path = Pytorch
-	url = ../Pytorch.git
+	url = ../Pytorch-Learn.git
 [submodule "Tensorflow"]
 	path = Tensorflow
 	url = ../Tensorflow-Learn.git
