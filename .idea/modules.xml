@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DeepLearning-Learn.iml" filepath="$PROJECT_DIR$/.idea/DeepLearning-Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Machine-Learning-Learn.iml" filepath="$PROJECT_DIR$/.idea/Machine-Learning-Learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pytorch/.idea/Pytorch.iml" filepath="$PROJECT_DIR$/Pytorch/.idea/Pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sklearn/.idea/Sklearn.iml" filepath="$PROJECT_DIR$/Sklearn/.idea/Sklearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tensorflow/.idea/Tensorflow.iml" filepath="$PROJECT_DIR$/Tensorflow/.idea/Tensorflow.iml" />
     </modules>
   </component>

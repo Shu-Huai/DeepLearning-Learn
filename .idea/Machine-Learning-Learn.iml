@@ -11,5 +11,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Tensorflow" />
     <orderEntry type="module" module-name="Pytorch" />
+    <orderEntry type="module" module-name="Sklearn" />
   </component>
 </module>
