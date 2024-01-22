@@ -1,0 +1,6 @@
+[submodule "Pytorch"]
+	path = Pytorch
+	url = ../Pytorch.git
+[submodule "Tensorflow"]
+	path = Tensorflow
+	url = ../Tensorflow.git
